@@ -37,7 +37,9 @@ table, th, td {
     background-color: antiquewhite;
 }
 body {
-    background-image: url(Material-escolar-e1504692185391.jpg); 
+    background-image: url(Material-escolar-e1504692185391.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
 }
 p {
     color: white;
